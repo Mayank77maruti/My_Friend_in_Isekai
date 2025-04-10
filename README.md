@@ -1,10 +1,6 @@
-
-![Kaori Banner](banner.webp)
-
-
 # 🌸 Kaori 🌸
 
-Kaori is an interactive Multi Agentic girlfriend designed to deliver a charming and engaging conversational experience. She adapts her personality and mood based on past interactions,also capiable to using multiple tools and services to create dynamic, personalized experience.
+Kaori is an interactive Multi Agentic friend designed to deliver a charming and engaging conversational experience. She adapts her personality and mood based on past interactions,also capiable to using multiple tools and services to create dynamic, personalized experience.
 
 
 ## Table of Contents
