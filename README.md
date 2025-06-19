@@ -203,6 +203,6 @@ To enable Kaori to send location-based weather updates, you need to set up Taske
 Now, Tasker will periodically send your location data to the Kaori server, allowing it to get to know more about you ;).
 
 ---
-For any further questions or issues, please refer to the documentation of the respective APIs and services integrated within this project or just contact the SamTheTechi
+For any further questions or issues, please refer to the documentation of the respective APIs and services integrated within this project.
 
 ## Hit a star for supporting me and my Kaori!
